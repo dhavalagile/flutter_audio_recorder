@@ -10,10 +10,10 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  path: ^1.5.1
   flutter:
     sdk: flutter
-  file: ^5.0.4
+  path: any
+  file: any
 
 
 dev_dependencies:
